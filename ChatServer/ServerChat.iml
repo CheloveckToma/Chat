@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="TCPConnection" />
+    <orderEntry type="module" module-name="TCPConnectionListener" />
   </component>
 </module>

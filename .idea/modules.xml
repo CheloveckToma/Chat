@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClientWindow/ClientWindow.iml" filepath="$PROJECT_DIR$/ClientWindow/ClientWindow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ServerChat/ServerChat.iml" filepath="$PROJECT_DIR$/ServerChat/ServerChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatServer/ServerChat.iml" filepath="$PROJECT_DIR$/ChatServer/ServerChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCPConnection/TCPConnection.iml" filepath="$PROJECT_DIR$/TCPConnection/TCPConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCPConnectionListener/TCPConnectionListener.iml" filepath="$PROJECT_DIR$/TCPConnectionListener/TCPConnectionListener.iml" />
     </modules>
